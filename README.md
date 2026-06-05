@@ -38,16 +38,6 @@
 * 📦 Exploring modern backend technologies and cloud-native tooling
 * 📚 Continuously learning backend architecture, DevOps practices, and scalable system design
 
-### 🎯 Current Focus
-
-* FastAPI & Flask Development
-* Python Backend Engineering
-* Cisco SD-WAN Automation
-* Infrastructure Automation
-* REST API Design & Integration
-* Docker & Containerization
-* Linux Administration
-
 ### 🚀 Currently Working With
 
 `Python` • `FastAPI` • `Flask` • `Linux` • `Docker` • `REST APIs` • `Cisco SD-WAN`
