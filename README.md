@@ -1,141 +1,92 @@
 <div align="center">
 
-# 👋 Hey, I'm Nishant Singh
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:2563eb,100:06b6d4&text=Nishant%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Backend%20Developer%20|%20Network%20Automation%20Engineer&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Python+Backend+Developer;Network+Automation+Engineer;Cisco+SD-WAN+Automation+Specialist;FastAPI+%7C+Flask+%7C+DevOps;Always+Learning+Something+New" />
+</div>
 
-<br>
+<div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWh0OWV6Z2l1aDd5eGVpOWY4YzF6aG9uYjA4MW9lZ2w4a2s0dW1sbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="450"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=00C4FF&center=true&vCenter=true&width=900&lines=Python+Backend+Developer;Cisco+SD-WAN+Automation;Network+Automation+Engineer;FastAPI+%7C+Flask+%7C+Linux;Building+Tools+That+Automate+Infrastructure" />
 
-<br><br>
+</div>
 
-![](https://komarev.com/ghpvc/?username=NishantSingh1002\&color=blueviolet\&style=for-the-badge)
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+<div align="center">
 
-```python
-class NishantSingh:
+<img width="450" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-    role = "Python Backend Developer"
+</div>
 
-    interests = [
-        "Backend Development",
-        "Network Automation",
-        "Cisco SD-WAN",
-        "FastAPI",
-        "DevOps",
-        "Cloud Technologies"
-    ]
+## 👨‍💻 About Me
 
-    currently_learning = [
-        "Advanced Python",
-        "System Design",
-        "Docker",
-        "Kubernetes",
-        "Distributed Systems"
-    ]
+Python developer focused on backend engineering, network automation, and infrastructure tooling.
 
-    motto = "Automate Everything Possible"
-```
+I enjoy building automation platforms, API-driven workflows, and solutions that simplify complex network operations.
 
 ---
 
-# 🌐 What I Do
+## ⚡ Tech Stack
 
-🔹 Build Backend Applications using Python
+<div align="center">
 
-🔹 Develop Network Automation Solutions
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,javascript,bash,mysql,docker,kubernetes,linux,git,github,postman,vscode&perline=7"/>
 
-🔹 Automate Cisco SD-WAN Operations
+</div>
 
-🔹 Create REST APIs using FastAPI & Flask
+<br>
 
-🔹 Work with Linux, Git and DevOps Tools
-
-🔹 Solve DSA Problems Daily
-
----
-
-# ⚡ Tech Stack
-
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript,bash,mysql" />
-</p>
-
----
-
-## Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask" />
-</p>
-
----
-
-## DevOps & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github" />
-</p>
-
----
-
-## Automation & Networking
-
-<p>
+<div align="center">
 
 <img src="https://img.shields.io/badge/Cisco-SDWAN-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Network-Automation-success?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Playwright-Automation-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST-APIs-blue?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Paramiko-SSH-blue?style=for-the-badge"/>
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/Linux-Infrastructure-orange?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -145,104 +96,50 @@ class NishantSingh:
 
 ---
 
-# 🎯 Featured Projects
-
-## 🚀 Cisco SD-WAN Upgrade Automation
-
-Automated software upgrades for:
-
-* vManage
-* vBond
-* vSmart
-
-Using:
-
-* Python
-* Playwright
-* REST APIs
-* Flask
-
----
-
-## 🔍 SD-WAN Validation Framework
-
-Pre/Post Upgrade Validation Framework
-
-Features:
-
-✅ Device Validation
-
-✅ Template Validation
-
-✅ Certificate Validation
-
-✅ Policy Validation
-
-✅ Software Validation
-
----
-
-## 🌐 Network Automation Toolkit
-
-Automation utilities using:
-
-* Paramiko
-* APIs
-* Python
-* Linux
-
----
-
-# 📚 Current Learning Roadmap
-
-```text
-Python Advanced Concepts
-        ↓
-FastAPI
-        ↓
-DevOps
-        ↓
-Docker
-        ↓
-Kubernetes
-        ↓
-System Design
-        ↓
-Cloud & Distributed Systems
-```
-
----
-
-# 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
 ---
 
-# 🤝 Connect With Me
+## 🌐 Connect
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/nishant-singh-backend-dev/">
+   
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-## ⭐ "Building Backends, Automating Networks, Solving Problems"
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
-### Thanks for visiting my profile 🚀
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Automating Networks • Building Backends • Solving Problems
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:0f172a,50:2563eb,100:06b6d4"/>
 
 </div>
