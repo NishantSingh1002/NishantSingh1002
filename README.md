@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="120"/>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00C4FF&center=true&vCenter=true&width=850&lines=Python+Backend+Developer;Cisco+SD-WAN+Automation;Network+Automation+Engineer;FastAPI+%7C+Flask+%7C+Linux;Building+Automation+For+Infrastructure"/>
 
 <br>
@@ -52,7 +51,7 @@ I enjoy building backend systems, automation platforms, and infrastructure tooli
 
 <td width="40%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishantSingh1002&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NishantSingh1002&theme=tokyonight"/>
 
 </td>
 
@@ -63,17 +62,89 @@ I enjoy building backend systems, automation platforms, and infrastructure tooli
 
 ## ⚙️ Tech Stack
 
+### 💻 Languages
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,javascript,mysql,bash,docker,kubernetes,linux,git,github,postman,vscode&perline=7"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,bash,mysql,postgresql"/>
+
+</div>
+
+---
+
+### 🚀 Backend Engineering
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask"/>
 
 <br><br>
+
+<img src="https://img.shields.io/badge/REST-APIs-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Backend-Development-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/API-Design-orange?style=for-the-badge"/>
+
+</div>
+
+---
+
+### 🗄️ Databases & Caching
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,redis"/>
+
+</div>
+
+---
+
+### ⚙️ DevOps & Infrastructure
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,postman"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/CI/CD-blueviolet?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Linux-Administration-orange?style=for-the-badge"/>
+
+</div>
+
+---
+
+### 🌐 Networking & Automation
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/Cisco-SDWAN-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Network-Automation-success?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/REST-API-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SSH-Automation-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Infrastructure-Automation-orange?style=for-the-badge"/>
+
+</div>
+
+---
+
+### 📚 Currently Exploring
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/NGINX-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RabbitMQ-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Celery-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Terraform-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Jenkins-red?style=for-the-badge"/>
 
 </div>
 
@@ -83,7 +154,7 @@ I enjoy building backend systems, automation platforms, and infrastructure tooli
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NishantSingh1002&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NishantSingh1002&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img width="49%" src="https://streak-stats.demolab.com?user=NishantSingh1002&theme=tokyonight&hide_border=true"/>
 
@@ -95,13 +166,13 @@ I enjoy building backend systems, automation platforms, and infrastructure tooli
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NishantSingh1002&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NishantSingh1002&theme=tokyonight"/>
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Profile Summary
 
 <div align="center">
 
