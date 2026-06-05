@@ -2,6 +2,10 @@
 
 
 
+# 👋 Hey, I'm Nishant Singh
+
+
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Python+Backend+Developer;Network+Automation+Engineer;Cisco+SD-WAN+Automation+Specialist;FastAPI+%7C+Flask+%7C+DevOps;Always+Learning+Something+New" />
 
 
@@ -18,12 +22,15 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=blueviolet\&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=NishantSingh1002\&color=blueviolet\&style=for-the-badge)
 
 
 
 </div>
 
+
+
+---
 
 
 ---
