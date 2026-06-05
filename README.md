@@ -29,19 +29,31 @@
 
 <ul>
 
-<li>🐍 Python Developer focused on backend engineering</li>
+👋 I'm Nishant, a Python Developer from India
 
-<li>🌐 Networking background with Cisco SD-WAN experience</li>
+💼 Currently working at Tata Communications
 
-<li>⚙️ Building APIs, automation tools, and backend services</li>
+💻 I focus on backend development, APIs, and automation
 
-<li>🚀 Passionate about solving operational challenges through automation</li>
+⚡ Passionate about building scalable backend applications
 
-<li>🐧 Working with Linux, REST APIs, and infrastructure tooling</li>
+🚀 Enjoy working with FastAPI, Flask, and Django
 
-<li>☁️ Exploring cloud-native technologies and distributed systems</li>
+🔗 Leveraging my networking background to build better software solutions
 
-<li>📚 Continuously learning backend architecture and DevOps</li>
+🌐 Experienced with Cisco SD-WAN technologies and network automation
+
+🐧 Comfortable working with Linux, REST APIs, and infrastructure tooling
+
+☁️ Exploring cloud-native technologies and modern backend architectures
+
+🛠️ Building automation tools that improve efficiency and reliability
+
+💡 Enjoy designing API-driven applications and backend services
+
+⚙️ Striving to bridge networking expertise with software engineering
+
+📚 Always learning backend architecture, DevOps practices, and system design
 
 </ul>
 
