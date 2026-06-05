@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="./assets/avatar.png" width="170"/>
+<img src="./assets/<img width="180" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4">" width="170"/>
 
 <br><br>
 
