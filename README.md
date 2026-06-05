@@ -4,8 +4,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00C4FF&center=true&vCenter=true&width=850&lines=Python+Backend+Developer;Cisco+SD-WAN+Automation;Network+Automation+Engineer;FastAPI+%7C+Flask+%7C+Linux;Building+Automation+For+Infrastructure"/>
 
-<br>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=er-NishantSingh1002-NishantSingh1002" alt="Visitor Badge">
+<br><br>
+
+<!-- Replace with your generated avatar -->
+<img src="YOUR_AVATAR_URL" width="170" style="border-radius:50%;"/>
+
+<br><br>
+
 <img src="https://komarev.com/ghpvc/?username=NishantSingh1002&style=for-the-badge&color=blueviolet"/>
 
 </div>
@@ -19,13 +24,19 @@
 
 ## 👨‍💻 About Me
 
-Python developer focused on backend engineering, network automation, and infrastructure tooling.
+Python Backend Developer and Network Automation Engineer.
 
-* Backend Development with Python
-* FastAPI & Flask APIs
-* Cisco SD-WAN Automation
-* Infrastructure & Network Automation
-* Linux & DevOps
+I enjoy building automation systems, backend services, and tools that simplify infrastructure operations.
+
+🔹 Backend APIs with FastAPI & Flask
+
+🔹 Cisco SD-WAN Automation
+
+🔹 Linux & Infrastructure Tooling
+
+🔹 REST APIs & Automation Frameworks
+
+🔹 DevOps Fundamentals
 
 ### 🚀 Currently Working With
 
@@ -76,7 +87,7 @@ Python • FastAPI • Cisco SD-WAN • Linux • Docker • REST APIs
 
 ---
 
-## 📈 Activity
+## 📈 Activity Graph
 
 <div align="center">
 
@@ -86,11 +97,33 @@ Python • FastAPI • Cisco SD-WAN • Linux • Docker • REST APIs
 
 ---
 
+## 📋 Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NishantSingh1002&theme=tokyonight"/>
+
+</div>
+
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<!-- Change after enabling snake workflow -->
+
+<img src="https://raw.githubusercontent.com/NishantSingh1002/NishantSingh1002/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=NishantSingh1002&theme=algolia&no-frame=true&row=1&column=7"/>
 
 </div>
 
@@ -104,10 +137,12 @@ Python • FastAPI • Cisco SD-WAN • Linux • Docker • REST APIs
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-  
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/nishant-singh-backend-dev/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:eshu26082001@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
