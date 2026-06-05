@@ -25,7 +25,7 @@
 <tr>
 
 <td width="60%">
-### 👨‍💻 About Me
+<h3>👨‍💻 About Me</h3>
 
 * 🐍 Python Developer with a strong interest in backend engineering and automation
 * 🌐 Background in networking with hands-on experience in Cisco SD-WAN technologies
