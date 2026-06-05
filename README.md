@@ -176,7 +176,7 @@ I enjoy building backend systems, automation platforms, and infrastructure tooli
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NishantSingh1002&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NishantSingh1002&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img width="49%" src="https://streak-stats.demolab.com?user=NishantSingh1002&theme=tokyonight&hide_border=true"/>
 
@@ -192,11 +192,11 @@ I enjoy building backend systems, automation platforms, and infrastructure tooli
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/nishant-singh-backend-dev/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:eshu26082001@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
