@@ -52,7 +52,7 @@ I enjoy building backend systems, automation platforms, and infrastructure tooli
 
 <td width="40%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishantSingh1002&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishantSingh1002&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </td>
 
