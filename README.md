@@ -13,7 +13,6 @@
 
 </div>
 
----
 
 <div align="center">
 
@@ -21,7 +20,6 @@
 
 </div>
 
----
 
 <table>
 <tr>
@@ -66,7 +64,6 @@
 </tr>
 </table>
 
----
 
 ## ⚙️ Tech Stack
 
@@ -78,7 +75,6 @@
 
 </div>
 
----
 
 ### 🚀 Backend Engineering
 
@@ -96,7 +92,6 @@
 
 </div>
 
----
 
 ### 🗄️ Databases & Caching
 
@@ -106,7 +101,6 @@
 
 </div>
 
----
 
 ### ⚙️ DevOps & Infrastructure
 
@@ -122,7 +116,6 @@
 
 </div>
 
----
 
 ### 🌐 Networking & Automation
 
@@ -138,7 +131,6 @@
 
 </div>
 
----
 
 ### 📚 Currently Exploring
 
@@ -156,7 +148,6 @@
 
 </div>
 
----
 
 ## 📊 GitHub Statistics
 
@@ -168,7 +159,6 @@
 
 </div>
 
----
 
 ## 📈 Activity
 
@@ -178,7 +168,6 @@
 
 </div>
 
----
 
 ## 📋 Developer Insights
 
@@ -190,7 +179,6 @@
 
 </div>
 
----
 
 ## 🌐 Connect
 
