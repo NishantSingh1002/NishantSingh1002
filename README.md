@@ -1,20 +1,32 @@
-
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:2563eb,100:06b6d4&text=Nishant%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Backend%20Developer%20|%20Network%20Automation%20Engineer&descAlignY=58"/>
+
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Python+Backend+Developer;Network+Automation+Engineer;Cisco+SD-WAN+Automation+Specialist;FastAPI+%7C+Flask+%7C+DevOps;Always+Learning+Something+New" />
+
+
+
+<br>
+
+
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWh0OWV6Z2l1aDd5eGVpOWY4YzF6aG9uYjA4MW9lZ2w4a2s0dW1sbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="450"/>
+
+
+
+<br><br>
+
+
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=blueviolet\&style=for-the-badge)
+
+
 
 </div>
 
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=00C4FF&center=true&vCenter=true&width=900&lines=Python+Backend+Developer;Cisco+SD-WAN+Automation;Network+Automation+Engineer;FastAPI+%7C+Flask+%7C+Linux;Building+Tools+That+Automate+Infrastructure" />
 
-</div>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet"/>
+---
 
 </div>
 
