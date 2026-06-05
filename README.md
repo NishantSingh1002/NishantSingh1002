@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://octodex.github.com/images/Fintechtocat.png" width="170"/>
+<img src="https://octodex.github.com/images/inspectocat.jpg" width="170"/>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00C4FF&center=true&vCenter=true&width=850&lines=Python+Backend+Developer;Cisco+SD-WAN+Automation;Network+Automation+Engineer;FastAPI+%7C+Flask+%7C+Linux;Building+Automation+For+Infrastructure"/>
 
 <br>
