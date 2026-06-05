@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00C4FF&center=true&vCenter=true&width=850&lines=Python+Backend+Developer;Cisco+SD-WAN+Automation;Network+Automation+Engineer;FastAPI+%7C+Flask+%7C+Linux;Building+Automation+For+Infrastructure"/>
 
 <br>
-
+<img src="https://visitor-badge.laobi.icu/badge?page_id=er-NishantSingh1002-NishantSingh1002" alt="Visitor Badge">
 <img src="https://komarev.com/ghpvc/?username=NishantSingh1002&style=for-the-badge&color=blueviolet"/>
 
 </div>
