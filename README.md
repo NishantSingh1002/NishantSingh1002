@@ -41,7 +41,7 @@
 
 🔗 Leveraging networking to build better software solutions
 
-🌐 Experienced with Cisco SD-WAN technologies and network automation
+🌐 Experienced with SD-WAN technologies and network automation
 
 🐧 Comfortable working with Linux, REST APIs, and infrastructure tooling
 
