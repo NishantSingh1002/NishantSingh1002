@@ -25,7 +25,7 @@
 <tr>
 
 <td width="60%">
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
 * 🐍 Python Developer with a strong interest in backend engineering and automation
 * 🌐 Background in networking with hands-on experience in Cisco SD-WAN technologies
@@ -71,27 +71,18 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,bash,mysql,postgresql"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,bash"/>
 
 </div>
 
 
-### 🚀 Backend Engineering
+### 🚀 Backend Frameworks
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/REST-APIs-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Backend-Development-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/API-Design-orange?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django"/>
 
 </div>
-
 
 ### 🗄️ Databases & Caching
 
@@ -101,53 +92,13 @@
 
 </div>
 
-
 ### ⚙️ DevOps & Infrastructure
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,postman"/>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/CI/CD-blueviolet?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Linux-Administration-orange?style=for-the-badge"/>
-
 </div>
-
-
-### 🌐 Networking & Automation
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Cisco-SDWAN-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Network-Automation-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SSH-Automation-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Infrastructure-Automation-orange?style=for-the-badge"/>
-
-</div>
-
-
-### 📚 Currently Exploring
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/NGINX-black?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/RabbitMQ-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Celery-green?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Terraform-purple?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Jenkins-red?style=for-the-badge"/>
-
-</div>
-
 
 ## 📊 GitHub Statistics
 
