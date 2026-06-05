@@ -172,11 +172,13 @@ I enjoy building backend systems, automation platforms, and infrastructure tooli
 
 ---
 
-## 🏆 Profile Summary
+## 📋 Developer Insights
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=NishantSingh1002&theme=algolia&no-frame=true&row=1&column=7"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NishantSingh1002&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=NishantSingh1002&theme=tokyonight&hide_border=true"/>
 
 </div>
 
