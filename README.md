@@ -33,21 +33,24 @@
 
 💼 Currently working at Tata Communications
 
-💻 I focus on backend development, APIs, and automation
+💻 Focused on backend engineering, APIs, and automation
 
-⚡ Passionate about building scalable backend applications
+⚡ Passionate about building reliable and scalable systems
 
-🚀 Enjoy working with FastAPI, Flask, and Django
+🚀 Building with FastAPI, Flask, and Django
 
-🔗 Leveraging networking to build better software solutions
+🔗 Bridging networking expertise with software engineering
 
 🌐 Experienced with SD-WAN technologies and network automation
 
-🐧 Comfortable working with Linux, REST APIs, and infrastructure tooling
+🐧 Comfortable with Linux, REST APIs, and infrastructure tooling
 
-☁️ Exploring cloud-native technologies and modern backend architectures
+☁️ Exploring cloud-native technologies and distributed systems
 
-🛠️ Building automation tools that improve efficiency and reliability
+🛠️ Automating workflows to improve efficiency and reliability
+
+📚 Continuously learning backend architecture and system design
+
 
 </ul>
 
