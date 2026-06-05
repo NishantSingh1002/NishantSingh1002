@@ -14,7 +14,11 @@
 
 
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWh0OWV6Z2l1aDd5eGVpOWY4YzF6aG9uYjA4MW9lZ2w4a2s0dW1sbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="450"/>
+<div align="center">
+
+<img width="450" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+</div>
 
 
 
@@ -45,11 +49,7 @@
 
 ---
 
-<div align="center">
 
-<img width="450" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-</div>
 
 ## 👨‍💻 About Me
 
