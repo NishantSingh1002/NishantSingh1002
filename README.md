@@ -71,7 +71,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,bash"/>
+<img src="https://skillicons.dev/icons?i=python,bash,c,cpp,html,css,javascript"/>
 
 </div>
 
