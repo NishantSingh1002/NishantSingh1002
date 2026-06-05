@@ -1,18 +1,16 @@
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="140"/>
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="120"/>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00C4FF&center=true&vCenter=true&width=850&lines=Python+Backend+Developer;Cisco+SD-WAN+Automation;Network+Automation+Engineer;FastAPI+%7C+Flask+%7C+Linux;Building+Automation+For+Infrastructure"/>
 
 <br>
 
 <br><br>
 
-<div align="center">
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=NishantSingh1002.NishantSingh1002" />
 
 <img src="https://komarev.com/ghpvc/?username=NishantSingh1002&label=PROFILE+VIEWS&style=flat-square&color=blueviolet"/>
 
-</div>
 
 </div>
 
