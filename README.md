@@ -6,7 +6,13 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=NishantSingh1002&style=for-the-badge&color=blueviolet"/>
+<div align="center">
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=NishantSingh1002.NishantSingh1002" />
+
+<img src="https://komarev.com/ghpvc/?username=NishantSingh1002&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet"/>
+
+</div>
 
 </div>
 
