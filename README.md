@@ -1,6 +1,6 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:2563eb,100:06b6d4&text=Nishant%20Singh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Backend%20Developer%20•%20Network%20Automation%20Engineer&descAlignY=58"/>
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snakes Eating My Repo">
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00C4FF&center=true&vCenter=true&width=850&lines=Python+Backend+Developer;Cisco+SD-WAN+Automation;Network+Automation+Engineer;FastAPI+%7C+Flask+%7C+Linux;Building+Automation+For+Infrastructure"/>
 
@@ -102,18 +102,6 @@ Python • FastAPI • Cisco SD-WAN • Linux • Docker • REST APIs
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NishantSingh1002&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<!-- Change after enabling snake workflow -->
-
-<img src="https://raw.githubusercontent.com/NishantSingh1002/NishantSingh1002/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
