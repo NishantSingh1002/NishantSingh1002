@@ -1,5 +1,13 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+
+
+<div align="center">
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:2563eb,100:06b6d4&text=Nishant%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Backend%20Developer%20|%20Network%20Automation%20Engineer&descAlignY=58"/>
 
 </div>
@@ -66,13 +74,8 @@ I enjoy building automation platforms, API-driven workflows, and solutions that 
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
 
 
 ## 🌐 Connect
@@ -84,7 +87,6 @@ I enjoy building automation platforms, API-driven workflows, and solutions that 
 </a>
 
    
-
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
