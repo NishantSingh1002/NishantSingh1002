@@ -29,32 +29,21 @@
 
 <ul>
 
-<li>🐍 Python Developer with a strong interest in backend engineering and automation</li>
+<li>🐍 Python Developer focused on backend engineering</li>
 
-<li>🌐 Background in networking with hands-on experience in Cisco SD-WAN technologies and infrastructure operations</li>
+<li>🌐 Networking background with Cisco SD-WAN experience</li>
 
-<li>💻 Focused on building backend services, API-driven applications, and automation solutions using Python</li>
+<li>⚙️ Building APIs, automation tools, and backend services</li>
 
-<li>⚙️ Passionate about network automation, infrastructure tooling, and workflow optimization</li>
+<li>🚀 Passionate about solving operational challenges through automation</li>
 
-<li>🚀 Enjoy designing solutions that simplify complex operational processes through automation</li>
+<li>🐧 Working with Linux, REST APIs, and infrastructure tooling</li>
 
-<li>🔗 Interested in the intersection of networking, software engineering, backend development, and DevOps</li>
+<li>☁️ Exploring cloud-native technologies and distributed systems</li>
 
-<li>🛠️ Building tools that improve efficiency, reliability, scalability, and operational visibility</li>
-
-<li>📡 Working with REST APIs, Linux-based systems, and infrastructure automation frameworks</li>
-
-<li>🐧 Comfortable working in Linux environments and automation-first workflows</li>
-
-<li>☁️ Exploring modern backend technologies, cloud-native tooling, and distributed systems concepts</li>
-
-<li>📚 Continuously learning backend architecture, system design, DevOps practices, and scalable application development</li>
-
-<li>💡 Always looking for opportunities to combine networking knowledge with software engineering to solve real-world problems</li>
+<li>📚 Continuously learning backend architecture and DevOps</li>
 
 </ul>
-
 
 
 </td>
