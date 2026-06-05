@@ -27,20 +27,34 @@
 <td width="60%">
 <h3>👨‍💻 About Me</h3>
 
-* 🐍 Python Developer with a strong interest in backend engineering and automation
-* 🌐 Background in networking with hands-on experience in Cisco SD-WAN technologies
-* ⚙️ Focused on building API-driven automation solutions and backend services
-* 🚀 Passionate about simplifying complex operational workflows through automation
-* 🔗 Interested in the intersection of networking, software engineering, and infrastructure
-* 🛠️ Building tools that improve efficiency, reliability, and scalability
-* 📡 Working with network automation, infrastructure tooling, and REST APIs
-* 🐧 Comfortable working in Linux-based environments
-* 📦 Exploring modern backend technologies and cloud-native tooling
-* 📚 Continuously learning backend architecture, DevOps practices, and scalable system design
+<ul>
 
-### 🚀 Currently Working With
+<li>🐍 Python Developer with a strong interest in backend engineering and automation</li>
 
-`Python` • `FastAPI` • `Flask` • `Linux` • `Docker` • `REST APIs` • `Cisco SD-WAN`
+<li>🌐 Background in networking with hands-on experience in Cisco SD-WAN technologies and infrastructure operations</li>
+
+<li>💻 Focused on building backend services, API-driven applications, and automation solutions using Python</li>
+
+<li>⚙️ Passionate about network automation, infrastructure tooling, and workflow optimization</li>
+
+<li>🚀 Enjoy designing solutions that simplify complex operational processes through automation</li>
+
+<li>🔗 Interested in the intersection of networking, software engineering, backend development, and DevOps</li>
+
+<li>🛠️ Building tools that improve efficiency, reliability, scalability, and operational visibility</li>
+
+<li>📡 Working with REST APIs, Linux-based systems, and infrastructure automation frameworks</li>
+
+<li>🐧 Comfortable working in Linux environments and automation-first workflows</li>
+
+<li>☁️ Exploring modern backend technologies, cloud-native tooling, and distributed systems concepts</li>
+
+<li>📚 Continuously learning backend architecture, system design, DevOps practices, and scalable application development</li>
+
+<li>💡 Always looking for opportunities to combine networking knowledge with software engineering to solve real-world problems</li>
+
+</ul>
+
 
 
 </td>
