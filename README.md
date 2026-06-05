@@ -74,17 +74,6 @@ I enjoy building automation platforms, API-driven workflows, and solutions that 
 
 </div>
 
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
 
 ## 🌐 Connect
 
