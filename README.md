@@ -39,7 +39,7 @@
 
 🚀 Enjoy working with FastAPI, Flask, and Django
 
-🔗 Leveraging my networking background to build better software solutions
+🔗 Leveraging networking to build better software solutions
 
 🌐 Experienced with Cisco SD-WAN technologies and network automation
 
@@ -48,12 +48,6 @@
 ☁️ Exploring cloud-native technologies and modern backend architectures
 
 🛠️ Building automation tools that improve efficiency and reliability
-
-💡 Enjoy designing API-driven applications and backend services
-
-⚙️ Striving to bridge networking expertise with software engineering
-
-📚 Always learning backend architecture, DevOps practices, and system design
 
 </ul>
 
