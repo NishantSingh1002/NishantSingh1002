@@ -104,7 +104,7 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NishantSingh1002&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NishantSingh1002&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true"/>
 
 <img width="49%" src="https://streak-stats.demolab.com?user=NishantSingh1002&theme=tokyonight&hide_border=true"/>
 
