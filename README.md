@@ -27,25 +27,24 @@
 <tr>
 
 <td width="60%">
+👨‍💻 About Me
 
-## 👨‍💻 About Me
+I'm a Python Developer with a strong interest in backend engineering, infrastructure automation, and networking technologies.
 
-Python Backend Developer and Network Automation Engineer.
+My background in networking gives me a unique perspective when building software. I enjoy combining backend development, APIs, and automation to solve operational challenges and streamline infrastructure workflows.
 
-I enjoy building backend systems, automation platforms, and infrastructure tooling that simplify complex operational workflows.
+I'm particularly interested in the intersection of software engineering and network automation, where Python, APIs, Linux, and automation frameworks can be used to simplify complex systems and reduce manual effort.
 
-### Areas of Interest
+What I Focus On
+Python Backend Development
+FastAPI & Flask
+Infrastructure & Network Automation
+Cisco SD-WAN Technologies
+Linux & DevOps Fundamentals
+REST API Development
+Currently Working With
 
-* Backend Development with Python
-* FastAPI & Flask
-* Cisco SD-WAN Automation
-* Infrastructure Automation
-* Linux Administration
-* REST APIs
-
-### Currently Working With
-
-`Python` • `FastAPI` • `Cisco SD-WAN` • `Linux` • `Docker`
+Python • FastAPI • Linux • Docker • REST APIs • Cisco SD-WAN
 
 </td>
 
