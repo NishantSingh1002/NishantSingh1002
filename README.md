@@ -42,6 +42,7 @@
   <li>📚 Continuously learning backend architecture and system design</li>
 </ul>
 
+<br>
 
 </td>
 
@@ -63,7 +64,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/nishant-singh-backend-dev/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:eshu26082001@gmail.com">
