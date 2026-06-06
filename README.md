@@ -63,7 +63,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/nishant-singh-backend-dev/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:eshu26082001@gmail.com">
