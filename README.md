@@ -28,30 +28,17 @@
 <h3>👨‍💻 About Me</h3>
 
 <ul>
-
-👋 I'm Nishant, a Python Developer from India
-
-💼 Currently working at Tata Communications
-
-💻 Focused on backend engineering, APIs, and automation
-
-⚡ Passionate about building reliable and scalable systems
-
-🚀 Building with FastAPI, Flask, and Django
-
-🔗 Bridging networking expertise with software engineering
-
-🌐 Experienced with SD-WAN technologies and network automation
-
-🐧 Comfortable with Linux, REST APIs, and infrastructure tooling
-
-☁️ Exploring cloud-native technologies and distributed systems
-
-🛠️ Automating workflows to improve efficiency and reliability
-
-📚 Continuously learning backend architecture and system design
-
-
+  <li>👋 I'm Nishant, a Python Developer from India</li>
+  <li>💼 Currently working at Tata Communications</li>
+  <li>💻 Focused on backend engineering, APIs, and automation</li>
+  <li>⚡ Passionate about building reliable and scalable systems</li>
+  <li>🚀 Building with FastAPI, Flask, and Django</li>
+  <li>🔗 Bridging networking expertise with software engineering</li>
+  <li>🌐 Experienced with SD-WAN technologies and network automation</li>
+  <li>🐧 Comfortable with Linux, REST APIs, and infrastructure tooling</li>
+  <li>☁️ Exploring cloud-native technologies and distributed systems</li>
+  <li>🛠️ Automating workflows to improve efficiency and reliability</li>
+  <li>📚 Continuously learning backend architecture and system design</li>
 </ul>
 
 
@@ -67,8 +54,8 @@
 </table>
 
 
-## ⚙️ Tech Stack
-## 💻 Languages
+### ⚙️ Tech Stack
+### 💻 Languages
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
