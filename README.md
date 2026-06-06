@@ -80,7 +80,7 @@
 <br>
 
 ## ⚙️ Tech Stack
-### 💻 Languages
+<h3 align="center">💻 Languages</h3>
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
@@ -112,7 +112,7 @@
   </a>
 </p>
 
-### 🚀 Backend Frameworks
+<h3 align="center">🚀 Backend Frameworks</h3>
 
 <p align="center">
   <a href="https://fastapi.tiangolo.com/" target="_blank">
@@ -128,7 +128,7 @@
   </a>
 </p>
 
-### 🗄️ Databases & Caching
+<h3 align="center">🗄️ Databases & Caching</h3>
 
 <p align="center">
   <a href="https://www.mysql.com/" target="_blank">
@@ -144,7 +144,7 @@
   </a>
 </p>
 
-### ⚙️ DevOps & Infrastructure
+<h3 align="center">⚙️ DevOps & Infrastructure</h3>
 
 <p align="center">
   <a href="https://www.docker.com/" target="_blank">
@@ -172,13 +172,11 @@
   </a>
 </p>
 
-## 📊 GitHub Statistics
+## 📊 Developer Insights
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NishantSingh1002&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=NishantSingh1002&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NishantSingh1002&theme=tokyonight"/>
 
 </div>
 
