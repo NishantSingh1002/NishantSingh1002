@@ -33,12 +33,12 @@
   <li>💼 Currently working at Tata Communications</li>
   <li>💻 Focused on backend engineering, APIs, and automation</li>
   <li>⚡ Passionate about building reliable and scalable systems</li>
-  <li>🚀 Building with FastAPI, Flask, and Django</li>
-  <li>🔗 Bridging networking expertise with software engineering</li>
+  <li>🚀 Building backend services with FastAPI, Flask, and Django</li>
+  <li>🔗 Combining networking expertise with backend development</li>
   <li>🌐 Experienced with SD-WAN technologies and network automation</li>
   <li>🐧 Comfortable with Linux, REST APIs, and infrastructure tooling</li>
   <li>☁️ Exploring cloud-native technologies and distributed systems</li>
-  <li>🛠️ Automating workflows to improve efficiency and reliability</li>
+  <li>🛠️  Developing automation tools for operational efficiency</li>
   <li>📚 Continuously learning backend architecture and system design</li>
 </ul>
 
@@ -76,9 +76,10 @@
 
 </div>
 
+<hr>
 <br>
 
-### ⚙️ Tech Stack
+## ⚙️ Tech Stack
 ### 💻 Languages
 
 <p align="center">
@@ -175,7 +176,7 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NishantSingh1002&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NishantSingh1002&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true"/>
 
 <img width="49%" src="https://streak-stats.demolab.com?user=NishantSingh1002&theme=tokyonight&hide_border=true"/>
 
