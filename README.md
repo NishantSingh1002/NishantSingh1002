@@ -71,7 +71,7 @@
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://your-portfolio.vercel.app">
+<a href="https://portfolio-website-psi-lovat-76.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
