@@ -88,11 +88,11 @@
   </a>
 
   <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45"/>
+    <img src="https://skillicons.dev/icons?i=bash" width="45"/>
   </a>
 
   <a href="https://en.cppreference.com/w/c" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45"/>
+    <img src="https://skillicons.dev/icons?i=c" width="45"/>
   </a>
 
   <a href="https://isocpp.org/" target="_blank">
@@ -116,15 +116,15 @@
 
 <p align="center">
   <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45"/>
+    <img src="https://skillicons.dev/icons?i=fastapi" width="45"/>
   </a>
 
   <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45"/>
+    <img src="https://skillicons.dev/icons?i=flask" width="45"/>
   </a>
 
   <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45"/>
+    <img src="https://skillicons.dev/icons?i=django" width="45"/>
   </a>
 </p>
 
@@ -132,7 +132,7 @@
 
 <p align="center">
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
+    <img src="https://skillicons.dev/icons?i=mysql" width="45"/>
   </a>
 
   <a href="https://www.postgresql.org/" target="_blank">
@@ -164,7 +164,7 @@
   </a>
 
   <a href="https://github.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
+    <img src="https://skillicons.dev/icons?i=github" width="45"/>
   </a>
 
   <a href="https://www.postman.com/" target="_blank">
