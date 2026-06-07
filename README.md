@@ -80,35 +80,36 @@
 <br>
 
 ## ⚙️ Tech Stack
+
 <h3 align="center">💻 Languages</h3>
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="45" height="45"/>
+    <img src="https://skillicons.dev/icons?i=python" width="50"/>
   </a>
 
   <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=bash" width="45"/>
+    <img src="https://skillicons.dev/icons?i=bash" width="50"/>
   </a>
 
   <a href="https://en.cppreference.com/w/c" target="_blank">
-    <img src="https://skillicons.dev/icons?i=c" width="45"/>
+    <img src="https://skillicons.dev/icons?i=c" width="50"/>
   </a>
 
   <a href="https://isocpp.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
+    <img src="https://skillicons.dev/icons?i=cpp" width="50"/>
   </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="45" height="45"/>
+    <img src="https://skillicons.dev/icons?i=html" width="50"/>
   </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="45" height="45"/>
+    <img src="https://skillicons.dev/icons?i=css" width="50"/>
   </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
+    <img src="https://skillicons.dev/icons?i=javascript" width="50"/>
   </a>
 </p>
 
@@ -116,15 +117,15 @@
 
 <p align="center">
   <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=fastapi" width="45"/>
+    <img src="https://skillicons.dev/icons?i=fastapi" width="50"/>
   </a>
 
   <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=flask" width="45"/>
+    <img src="https://skillicons.dev/icons?i=flask" width="50"/>
   </a>
 
   <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=django" width="45"/>
+    <img src="https://skillicons.dev/icons?i=django" width="50"/>
   </a>
 </p>
 
@@ -132,15 +133,15 @@
 
 <p align="center">
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" width="45"/>
+    <img src="https://skillicons.dev/icons?i=mysql" width="50"/>
   </a>
 
   <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
+    <img src="https://skillicons.dev/icons?i=postgres" width="50"/>
   </a>
 
   <a href="https://redis.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" height="45"/>
+    <img src="https://skillicons.dev/icons?i=redis" width="50"/>
   </a>
 </p>
 
@@ -148,27 +149,27 @@
 
 <p align="center">
   <a href="https://www.docker.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="45" height="45"/>
+    <img src="https://skillicons.dev/icons?i=docker" width="50"/>
   </a>
 
   <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" height="45"/>
+    <img src="https://skillicons.dev/icons?i=kubernetes" width="50"/>
   </a>
 
   <a href="https://www.linux.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="45" height="45"/>
+    <img src="https://skillicons.dev/icons?i=linux" width="50"/>
   </a>
 
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45"/>
+    <img src="https://skillicons.dev/icons?i=git" width="50"/>
   </a>
 
   <a href="https://github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="45"/>
+    <img src="https://skillicons.dev/icons?i=github" width="50"/>
   </a>
 
   <a href="https://www.postman.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="45" height="45"/>
+    <img src="https://skillicons.dev/icons?i=postman" width="50"/>
   </a>
 </p>
 
